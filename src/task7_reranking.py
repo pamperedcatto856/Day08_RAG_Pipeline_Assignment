@@ -1,56 +1,32 @@
-"""
-Task 7 — Reranking Module.
-
-Chọn 1 trong các phương pháp:
-    - Cross-encoder reranker: Jina Reranker v2 (multilingual) hoặc Qwen3-Reranker
-    - MMR (Maximal Marginal Relevance): tự implement
-    - RRF (Reciprocal Rank Fusion): tự implement
-
-Nếu dùng MMR hoặc RRF, đảm bảo hiểu và giải thích được cơ chế.
-"""
-
 from typing import Optional
 
 
 def rerank_cross_encoder(
-    query: str, candidates: list[dict], top_k: int = 5
+    query: str,
+    candidates: list[dict],
+    top_k: int = 5
 ) -> list[dict]:
-    """
-    Rerank candidates sử dụng cross-encoder model.
 
-    Args:
-        query: Câu truy vấn
-        candidates: List of {'content': str, 'score': float, 'metadata': dict}
-        top_k: Số lượng kết quả sau rerank
+    query_terms = set(query.lower().split())
 
-    Returns:
-        List of top_k candidates, re-scored và sorted by rerank_score descending.
-    """
-    # TODO: Implement cross-encoder reranking
-    #
-    # Option A: Jina Reranker API
-    # import requests
-    # response = requests.post(
-    #     "https://api.jina.ai/v1/rerank",
-    #     headers={"Authorization": f"Bearer {JINA_API_KEY}"},
-    #     json={
-    #         "model": "jina-reranker-v2-base-multilingual",
-    #         "query": query,
-    #         "documents": [c["content"] for c in candidates],
-    #         "top_n": top_k
-    #     }
-    # )
-    # reranked = response.json()["results"]
-    # return [
-    #     {**candidates[r["index"]], "score": r["relevance_score"]}
-    #     for r in reranked
-    # ]
-    #
-    # Option B: Local model (Qwen3-Reranker)
-    # from transformers import AutoModelForSequenceClassification, AutoTokenizer
-    # ...
-    raise NotImplementedError("Implement rerank_cross_encoder")
+    reranked = []
 
+    for candidate in candidates:
+        content_terms = set(candidate["content"].lower().split())
+
+        overlap = len(query_terms.intersection(content_terms))
+
+        reranked.append({
+            **candidate,
+            "score": float(overlap)
+        })
+
+    reranked.sort(
+        key=lambda x: x["score"],
+        reverse=True
+    )
+
+    return reranked[:top_k]
 
 def rerank_mmr(
     query_embedding: list[float],

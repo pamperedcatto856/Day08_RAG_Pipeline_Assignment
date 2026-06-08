@@ -129,30 +129,39 @@ def index_to_vectorstore(chunks: list[dict]):
     # TODO: Implement indexing
     #
     # Ví dụ với Weaviate:
-    # import weaviate
-    # from weaviate.classes.config import Configure, Property, DataType
-    #
-    # client = weaviate.connect_to_local()  # hoặc connect_to_weaviate_cloud()
-    #
-    # # Tạo collection
-    # collection = client.collections.create(
-    #     name="DrugLawDocs",
-    #     vectorizer_config=Configure.Vectorizer.none(),
-    #     properties=[
-    #         Property(name="content", data_type=DataType.TEXT),
-    #         Property(name="source", data_type=DataType.TEXT),
-    #         Property(name="doc_type", data_type=DataType.TEXT),
-    #     ]
-    # )
-    #
-    # # Insert chunks
-    # with collection.batch.dynamic() as batch:
-    #     for chunk in chunks:
-    #         batch.add_object(
-    #             properties={"content": chunk["content"], ...},
-    #             vector=chunk["embedding"]
-    #         )
-    raise NotImplementedError("Implement index_to_vectorstore")
+    import weaviate
+    from weaviate.classes.config import Configure, Property, DataType
+    
+    client = weaviate.connect_to_local()  # hoặc connect_to_weaviate_cloud()
+    
+    # Tạo collection
+    if client.collections.exists("DrugLawDocs"):
+        collection = client.collections.get("DrugLawDocs")
+    else:
+        collection = client.collections.create(
+        name="DrugLawDocs",
+        vectorizer_config=Configure.Vectors.self_provided(),
+        properties=[
+            Property(name="chunk_index", data_type=DataType.INT),
+            Property(name="content", data_type=DataType.TEXT),
+            Property(name="source", data_type=DataType.TEXT),
+            Property(name="doc_type", data_type=DataType.TEXT),
+        ]
+    )
+    
+    # Insert chunks
+    with collection.batch.dynamic() as batch:
+        for chunk in chunks:
+            batch.add_object(
+                properties={
+                    "content": chunk["content"],
+                    "source": chunk["metadata"]["source"],
+                    "doc_type": chunk["metadata"]["type"],
+                    "chunk_index": chunk["metadata"]["chunk_index"]
+                },
+                vector=chunk["embedding"]
+            )
+    
 
 
 def run_pipeline():

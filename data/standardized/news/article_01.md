@@ -1,0 +1,195 @@
+# Vietnamese celebrities whose careers collapsed over drugs
+
+**Source:** https://vietnamnet.vn/en/vietnamese-celebrities-whose-careers-collapsed-over-drugs-2514808.html
+**Crawled:** 2026-06-08T17:06:27.029244
+
+---
+
+[ ![return icon](https://static.vnncdn.net/v1/icon/return.png) Vietnamnet.vn ](https://vietnamnet.vn/) ![menu icon](https://static.vnncdn.net/v1/icon//menu.svg) ![menu icon](https://static.vnncdn.net/v1/icon/cancel-mobile.svg)
+[ ![VietNamNet Global](https://static.vnncdn.net/v1/icon/VietnamNet_bridge.svg) ](https://vietnamnet.vn/en "Vietnamnet global")
+![search icon](https://static.vnncdn.net/v1/icon/search.png)
+![search.png](https://static.vnncdn.net/v1/icon/search.png)
+  * © Copyright of Vietnamnet Global.
+  * Tel: 024 3772 7988 Fax: (024) 37722734
+  * Email: evnn@vietnamnet.vn
+
+
+  * [Talkshow](https://vietnamnet.vn/talkshow%20)
+  * [Hồ sơ](https://vietnamnet.vn/ho-so)
+  * [Ảnh](https://vietnamnet.vn/anh)
+  * [Video](https://vietnamnet.vn/video)
+  * [Multimedia](https://vietnamnet.vn/multimedia)
+  * [ ![podcast icon](https://static.vnncdn.net/v1/icon/podcast-icon.svg) Podcast ](https://vietnamnet.vn/podcast "podcast")
+
+
+  * [Tuyến bài](https://vietnamnet.vn/tuyen-bai)
+  * [Sự kiện nóng](https://vietnamnet.vn/su-kien)
+
+
+  * [Tuyển dụng](https://vietnamnet.vn/tuyen-dung "Tuyển dụng")
+  * [Liên hệ tòa soạn](https://vietnamnet.vn/thong-tin-toa-soan "Liên hệ tòa soạn")
+  * [Liên hệ quảng cáo](https://vads.vn/ "Liên hệ quảng cáo")
+
+[ ![download app](https://static.vnncdn.net/v1/icon/tai-app.svg) ](https://vietnamnet.vn/download-app)
+#  [ ![logo-en](https://static.vnncdn.net/v1/icon/VietnamNet_bridge.svg) ](https://vietnamnet.vn/en "Vietnamnet Global")
+  * Đăng nhập ![login vietnamnet](https://static.vnncdn.net/v1/icon/login.svg)
+
+
+![icon](https://static.vnncdn.net/v1/icon/chat.svg) ![icon](https://static.vnncdn.net/v1/icon/circle.svg) Aa
+![share facebook](https://static.vnncdn.net/v1/icon/icon-share-link-facebook.svg) Facebook  ![share zalo](https://static.vnncdn.net/v1/icon/zalo-unactive-mobile%20.svg) Zalo  ![share email](https://static.vnncdn.net/v1/icon/icon-share-link-email.svg) Email  ![](https://static.vnncdn.net/v1/icon/icon-link-share-copy-link.svg) Copy Link
+Aa Aa
+  * [ ![icon](https://static.vnncdn.net/v1/icon/home_mobile.svg) ](https://vietnamnet.vn/)
+  * [ Vietnamnet global ](https://vietnamnet.vn/en "Vietnamnet global")
+
+
+12/05/2026 09:07 (GMT+07:00)
+# Vietnamese celebrities whose careers collapsed over drugs
+[ ](javasctip:void\(0\); "Share the post on facebook") [ ](javasctip:void\(0\); "Share the post on zalo") [ ](javasctip:void\(0\); "Share the post on email") [ Copy link ](javasctip:void\(0\); "Copy link") [ ](javasctip:void\(0\); "Save post")
+12/05/2026 09:07 (GMT+07:00)
+[ ![icon](https://static.vnncdn.net/v1/icon/google-news-en.svg) ](https://news.google.com/publications/CAAqBwgKMNi4kgswo_-nAw/sections/CAQqEAgAKgcICjDYuJILMKP_pwMw7pCTBw?ceid=VN:vi&oc=3&hl=vi&gl=VN)
+## Vietnamese showbiz continues to grapple with drug-related controversies as several well-known artists face legal troubles and public backlash.
+Singer Hai Dang Doo has become the center of attention on social media over the past two days after a series of photos and clips surfaced online allegedly showing him partying at a hotel in Da Nang with singer Lou Hoang and several women.
+As of now, neither Hai Dang Doo nor Lou Hoang has issued an official statement on social media or to the press.
+Drug-related scandals involving Vietnamese celebrities have remained a recurring topic of public discussion for years.
+VietNamNet looks back at some of the most high-profile Vietnamese stars who paid a heavy price for lives derailed by narcotics.
+In April 2007, comedian Hiep Ga was caught by police in Hanoi’s Phuong Lien Ward illegally possessing heroin.
+During the investigation, he admitted to having been addicted to drugs for around four to five months.
+On July 31, 2007, the Dong Da District People’s Court sentenced him to 24 months in prison for illegal possession of narcotics.
+Once a popular comedian known for the television program Weekend Gathering, Hiep Ga struggled to regain his former status after leaving prison, mostly appearing in small comedy skits, online films and entertainment venues to make a living.
+On March 5, 2018, singer Chau Viet Cuong used methamphetamine with a group of friends.
+While hallucinating, he stuffed more than 30 garlic cloves into a young woman’s mouth, causing her to suffocate and die.
+In March 2019, the Hanoi People’s Court sentenced him to 13 years in prison for murder.
+At an appeal hearing in August 2019, the High People’s Court in Hanoi reduced the sentence to 11 years.
+On Jan. 5, 2025, Chau Viet Cuong was released early after serving more than six years in prison.
+![Sao Viet 03.jpg](https://vietnamnet.vn/en/vietnamese-celebrities-whose-careers-collapsed-over-drugs-2514808.html)
+From left: Huu Tin, Nhikolai Dinh and Chau Viet Cuong.
+On June 11, 2022, police in Ward 5 of former District 8 in Ho Chi Minh City caught comedian Huu Tin and several friends using drugs in an apartment at Giai Viet residential complex.
+At a trial on April 28, 2023, the District 8 People’s Court sentenced Huu Tin to seven years and six months in prison for organizing illegal drug use.
+Shortly before that, on April 23, 2023, actress Le Hang - known for the television drama Please Believe Me - was prosecuted for illegally trading narcotics.
+![Sao Viet 04.jpg](https://vietnamnet.vn/en/vietnamese-celebrities-whose-careers-collapsed-over-drugs-2514808.html) Actress Le Hang.
+In June 2024, singer Chu Bin was arrested after police discovered him and five others using drugs at a house in District 10, Ho Chi Minh City.
+That same month, model Nhikolai Dinh was prosecuted and temporarily detained by former District 1 police for illegal possession of narcotics.
+At the time of his arrest, police found several packets of drugs on him and nine others, all of whom later tested positive for narcotics.
+![Sao Viet 01.jpg](https://vietnamnet.vn/en/vietnamese-celebrities-whose-careers-collapsed-over-drugs-2514808.html) Chi Dan and Andrea Aybar, also known as An Tay.
+In November 2024, singer Chi Dan, whose real name is Nguyen Trung Hieu, and model-actress Andrea Aybar, known as An Tay, were prosecuted and temporarily detained by Ho Chi Minh City police for organizing illegal drug use.
+Andrea Aybar also faced an additional charge of illegal possession of narcotics.
+On the evening of June 23, 2025, Ho Chi Minh City police discovered renowned fashion designer Nguyen Cong Tri and Tran Phu Long illegally using drugs at a private residence in Tan Hung Ward.
+A search of the property uncovered ceramic plates, rolled-up banknotes and plastic cards allegedly used for drug consumption.
+On July 23, 2025, authorities officially announced the dismantling of the entire drug trafficking and usage ring linked to the case.
+![Sao Viet 02.jpg](https://vietnamnet.vn/en/vietnamese-celebrities-whose-careers-collapsed-over-drugs-2514808.html) Fashion designer Nguyen Cong Tri at the time of his arrest.
+Nguyen Cong Tri was not only one of Vietnam’s most celebrated fashion designers but was also widely regarded as a leading figure in the country’s fashion industry.
+He helped shape Vietnamese fashion’s identity on the international stage and collaborated with global stars including Beyoncé, Rihanna and Katy Perry.
+His involvement in a drug scandal therefore shocked industry insiders and deeply disappointed the public.
+In July 2026, rapper Binh “Gold” was arrested while under investigation for robbery.
+Authorities later confirmed he tested positive for narcotics.
+Prior to the arrest, traffic police had stopped his vehicle and found him positive for cannabis and ketamine while driving.
+Looking back at nearly two decades of scandals - from Hiep Ga to Nguyen Cong Tri and the latest unresolved allegations - one troubling similarity stands out: most of those involved were at strong points in their careers or had already established significant reputations.
+The consequences of a single fall from grace have often included shattered careers, damaged reputations and lost freedom.
+**Minh Phi**
+_Photos: Archive_
+###  READ MORE 
+[ ![Vietnamese showbiz needs a serious cultural reset](https://static-images.vnncdn.net/vps_images_publish/000001/00000Q/2026/5/24/vietnamese-showbiz-needs-a-serious-cultural-reset-d6739b4b8b1345f7b459dd022972d541-1629.jpg?width=260&s=S7ITydHWEyT6fWLzUyozlA) ](https://vietnamnet.vn/en/vietnamese-showbiz-needs-a-serious-cultural-reset-2518875.html "Vietnamese showbiz needs a serious cultural reset")
+###  [ Vietnamese showbiz needs a serious cultural reset ](https://vietnamnet.vn/en/vietnamese-showbiz-needs-a-serious-cultural-reset-2518875.html#vnn_source=chitiet&vnn_medium=box_duocquantam1 "Vietnamese showbiz needs a serious cultural reset")
+[ ![When apologies are not enough in Vietnam’s celebrity culture](https://static-images.vnncdn.net/vps_images_publish/000001/00000Q/2026/3/31/when-apologies-are-not-enough-in-vietnams-celebrity-culture-6d25840febcd42e68b3a9ebc0925cfd7-63.gif?width=260&s=7Qz-UBmW8MlTsrDv7YGoxw) ](https://vietnamnet.vn/en/when-apologies-are-not-enough-in-vietnams-celebrity-culture-2501928.html "When apologies are not enough in Vietnam’s celebrity culture")
+###  [ When apologies are not enough in Vietnam’s celebrity culture ](https://vietnamnet.vn/en/when-apologies-are-not-enough-in-vietnams-celebrity-culture-2501928.html#vnn_source=chitiet&vnn_medium=box_duocquantam2 "When apologies are not enough in Vietnam’s celebrity culture")
+[ ![Vietnam aims for high ranking at 60th Mendeleev Chemistry Olympiad](https://static-images.vnncdn.net/vps_images_publish/000001/00000Q/2026/4/17/vietnam-aims-for-high-ranking-at-60th-mendeleev-chemistry-olympiad-4955329ded8040239e16d7c43ea39ff8-450.webp?width=260&s=Y7aJ_9NEUoHRUeqNYHazmw) ](https://vietnamnet.vn/en/vietnam-aims-for-high-ranking-at-60th-mendeleev-chemistry-olympiad-2507417.html "Vietnam aims for high ranking at 60th Mendeleev Chemistry Olympiad")
+###  [ Vietnam aims for high ranking at 60th Mendeleev Chemistry Olympiad ](https://vietnamnet.vn/en/vietnam-aims-for-high-ranking-at-60th-mendeleev-chemistry-olympiad-2507417.html#vnn_source=chitiet&vnn_medium=box_duocquantam3 "Vietnam aims for high ranking at 60th Mendeleev Chemistry Olympiad")
+[ ![Vietnam recalls cosmetics and fines companies nearly $110,000 in one week](https://static-images.vnncdn.net/vps_images_publish/000001/00000Q/2026/6/2/vietnam-recalls-cosmetics-and-fines-companies-nearly-110000-in-one-week-91b9639a37e54076a4ed791e6e657d60-1891.png?width=260&s=rae67KNLvjUE-SpqxNa71w) ](https://vietnamnet.vn/en/vietnam-recalls-cosmetics-and-fines-companies-nearly-110000-in-one-week-2521954.html "Vietnam recalls cosmetics and fines companies nearly $110,000 in one week")
+###  [ Vietnam recalls cosmetics and fines companies nearly $110,000 in one week ](https://vietnamnet.vn/en/vietnam-recalls-cosmetics-and-fines-companies-nearly-110000-in-one-week-2521954.html#vnn_source=chitiet&vnn_medium=box_duocquantam4 "Vietnam recalls cosmetics and fines companies nearly $110,000 in one week")
+[ ![](https://static.vnncdn.net/v1/icon/icon-pre-bule-sm.png) GO BACK TO THE HOME PAGE ](https://vietnamnet.vn/ "GO BACK TO THE HOME PAGE")
+  * [ How are celebrities’ asset seizures handled? ](https://vietnamnet.vn/en/how-are-celebrities-asset-seizures-handled-2462733.html "How are celebrities’ asset seizures handled?")
+  * [ Vietnamese showbiz rocked by arrests of three top celebrities ](https://vietnamnet.vn/en/vietnamese-showbiz-rocked-by-arrests-of-three-top-celebrities-2458435.html "Vietnamese showbiz rocked by arrests of three top celebrities")
+  * [ Celebrities face legal risks for promoting fake products ](https://vietnamnet.vn/en/celebrities-face-legal-risks-for-promoting-fake-products-2413586.html "Celebrities face legal risks for promoting fake products")
+
+
+Comment  ![](https://static.vnncdn.net/v1/icon/chat\(1\).svg)
+[ ](javasctip:void\(0\); "Share the post on facebook") [ ](javasctip:void\(0\); "Share the post on zalo") [ ](javasctip:void\(0\); "Share the post on email") [ Copy link ](javasctip:void\(0\); "Copy link") [ ](javasctip:void\(0\); "Save post")
+  * Topic:
+  * ###  [ entertainment news ](https://vietnamnet.vn/en/entertainment-news-tag332230.html "entertainment news")
+  * ###  [ features ](https://vietnamnet.vn/en/features-tag2005204904023051532.html "features")
+  * ###  [ vietnamese celebrities ](https://vietnamnet.vn/en/vietnamese-celebrities-tag13810752353868902832.html "vietnamese celebrities")
+  * ###  [ showbiz scandals ](https://vietnamnet.vn/en/showbiz-scandals-tag3279073649908762189.html "showbiz scandals")
+
+
+###  Hot news 
+[ ![E-commerce platforms raise fees, making bargain hunting harder for shoppers](https://vietnamnet.vn/en/vietnamese-celebrities-whose-careers-collapsed-over-drugs-2514808.html) ](https://vietnamnet.vn/en/e-commerce-platforms-raise-fees-making-bargain-hunting-harder-for-shoppers-2522546.html "E-commerce platforms raise fees, making bargain hunting harder for shoppers")
+[News](https://vietnamnet.vn/en/news "News")
+###  [ E-commerce platforms raise fees, making bargain hunting harder for shoppers ](https://vietnamnet.vn/en/e-commerce-platforms-raise-fees-making-bargain-hunting-harder-for-shoppers-2522546.html "E-commerce platforms raise fees, making bargain hunting harder for shoppers")
+E-commerce platforms are raising fees, forcing sellers to increase prices or cut promotions, which is narrowing the price gap between online purchases and traditional offline sales. 
+[ ![Vietnam targets cashless payment value reaching 30 times GDP by 2030](https://vietnamnet.vn/en/vietnamese-celebrities-whose-careers-collapsed-over-drugs-2514808.html) ](https://vietnamnet.vn/en/vietnam-targets-cashless-payment-value-reaching-30-times-gdp-by-2030-2523886.html "Vietnam targets cashless payment value reaching 30 times GDP by 2030")
+[News](https://vietnamnet.vn/en/news "News")
+###  [ Vietnam targets cashless payment value reaching 30 times GDP by 2030 ](https://vietnamnet.vn/en/vietnam-targets-cashless-payment-value-reaching-30-times-gdp-by-2030-2523886.html "Vietnam targets cashless payment value reaching 30 times GDP by 2030")
+Vietnam targets that by 2030, 95% of people aged 15 and above will have bank transaction accounts, while the value of cashless payments will reach 30 times GDP. 
+[ ![VN's industrial production records strongest five-month growth in four years](https://vietnamnet.vn/en/vietnamese-celebrities-whose-careers-collapsed-over-drugs-2514808.html) ](https://vietnamnet.vn/en/vn-s-industrial-production-records-strongest-five-month-growth-in-four-years-2523883.html "VN's industrial production records strongest five-month growth in four years")
+[News](https://vietnamnet.vn/en/news "News")
+###  [ VN's industrial production records strongest five-month growth in four years ](https://vietnamnet.vn/en/vn-s-industrial-production-records-strongest-five-month-growth-in-four-years-2523883.html "VN's industrial production records strongest five-month growth in four years")
+Vietnam’s industrial production maintained strong momentum in the first five months of 2026, with the Index of Industrial Production (IIP) rising 9.1% year-on-year, the highest growth rate for the period in the past four years. 
+[ ![Conservation project set to protect endangered elephant herds](https://vietnamnet.vn/en/vietnamese-celebrities-whose-careers-collapsed-over-drugs-2514808.html) ](https://vietnamnet.vn/en/conservation-project-set-to-protect-endangered-elephant-herds-2523882.html "Conservation project set to protect endangered elephant herds")
+[News](https://vietnamnet.vn/en/news "News")
+###  [ Conservation project set to protect endangered elephant herds ](https://vietnamnet.vn/en/conservation-project-set-to-protect-endangered-elephant-herds-2523882.html "Conservation project set to protect endangered elephant herds")
+The Ministry of Agriculture & Environment has approved a conservation project to help protect the endangered elephant herds in Da Nang & Dak Lak as part of the VN Elephant Conservation Action Plan to 2035 funded by the World Wide Fund for Nature VN. 
+[ ![Gov't moves to remove bottlenecks, drive double-digit economic growth in 2026](https://vietnamnet.vn/en/vietnamese-celebrities-whose-careers-collapsed-over-drugs-2514808.html) ](https://vietnamnet.vn/en/gov-t-moves-to-remove-bottlenecks-drive-double-digit-economic-growth-in-2026-2523878.html "Gov't moves to remove bottlenecks, drive double-digit economic growth in 2026")
+[News](https://vietnamnet.vn/en/news "News")
+###  [ Gov't moves to remove bottlenecks, drive double-digit economic growth in 2026 ](https://vietnamnet.vn/en/gov-t-moves-to-remove-bottlenecks-drive-double-digit-economic-growth-in-2026-2523878.html "Gov't moves to remove bottlenecks, drive double-digit economic growth in 2026")
+The Government has issued a resolution directing ministries, ministry-level agencies, and provincial and municipal authorities to continue implementing socio-economic development tasks and solutions in a serious, coordinated and effective manner. 
+[ ![First Southeast Asian party dialogue on ASEAN’s future held in Hanoi](https://vietnamnet.vn/en/vietnamese-celebrities-whose-careers-collapsed-over-drugs-2514808.html) ](https://vietnamnet.vn/en/first-southeast-asian-party-dialogue-on-asean-s-future-held-in-hanoi-2523872.html "First Southeast Asian party dialogue on ASEAN’s future held in Hanoi")
+[News](https://vietnamnet.vn/en/news "News")
+###  [ First Southeast Asian party dialogue on ASEAN’s future held in Hanoi ](https://vietnamnet.vn/en/first-southeast-asian-party-dialogue-on-asean-s-future-held-in-hanoi-2523872.html "First Southeast Asian party dialogue on ASEAN’s future held in Hanoi")
+On the morning of June 8, within the framework of the third ASEAN Future Forum (AFF), a dialogue titled “The Role of Southeast Asian Political Parties in Building the ASEAN Community” was held in Hanoi. 
+[ ![Domestic businesses promote mergers to enhance competitiveness](https://vietnamnet.vn/en/vietnamese-celebrities-whose-careers-collapsed-over-drugs-2514808.html) ](https://vietnamnet.vn/en/domestic-businesses-promote-mergers-to-enhance-competitiveness-2523875.html "Domestic businesses promote mergers to enhance competitiveness")
+[News](https://vietnamnet.vn/en/news "News")
+###  [ Domestic businesses promote mergers to enhance competitiveness ](https://vietnamnet.vn/en/domestic-businesses-promote-mergers-to-enhance-competitiveness-2523875.html "Domestic businesses promote mergers to enhance competitiveness")
+No longer the exclusive domain of foreign funds, the mergers and acquisitions (M&A) market has seen the rise of Vietnamese businesses with deals aimed at expanding the value chain, enhancing competitiveness and restructuring businesses. 
+[ ![New mindset, vision necessary in marine development: Top leader](https://vietnamnet.vn/en/vietnamese-celebrities-whose-careers-collapsed-over-drugs-2514808.html) ](https://vietnamnet.vn/en/new-mindset-vision-necessary-in-marine-development-top-leader-2523876.html "New mindset, vision necessary in marine development: Top leader")
+[News](https://vietnamnet.vn/en/news "News")
+###  [ New mindset, vision necessary in marine development: Top leader ](https://vietnamnet.vn/en/new-mindset-vision-necessary-in-marine-development-top-leader-2523876.html "New mindset, vision necessary in marine development: Top leader")
+General Secretary and President To Lam has called for a fundamental shift in mindset and vision in marine development in the new period. 
+[ ![Vietnam U19's defeat to Indonesia offers a painful but valuable lesson](https://vietnamnet.vn/en/vietnamese-celebrities-whose-careers-collapsed-over-drugs-2514808.html) ](https://vietnamnet.vn/en/vietnam-u19-s-defeat-to-indonesia-offers-a-painful-but-valuable-lesson-2523772.html "Vietnam U19's defeat to Indonesia offers a painful but valuable lesson")
+[News](https://vietnamnet.vn/en/news "News")
+###  [ Vietnam U19's defeat to Indonesia offers a painful but valuable lesson ](https://vietnamnet.vn/en/vietnam-u19-s-defeat-to-indonesia-offers-a-painful-but-valuable-lesson-2523772.html "Vietnam U19's defeat to Indonesia offers a painful but valuable lesson")
+Vietnam U19's dramatic defeat to Indonesia may have delayed their progress in the ASEAN U19 Championship, but it also delivered important lessons for a young team still developing. 
+[ ![Vietnam stocks tumble as global sell-off spreads across markets](https://vietnamnet.vn/en/vietnamese-celebrities-whose-careers-collapsed-over-drugs-2514808.html) ](https://vietnamnet.vn/en/vietnam-stocks-tumble-as-global-sell-off-spreads-across-markets-2523784.html "Vietnam stocks tumble as global sell-off spreads across markets")
+[News](https://vietnamnet.vn/en/news "News")
+###  [ Vietnam stocks tumble as global sell-off spreads across markets ](https://vietnamnet.vn/en/vietnam-stocks-tumble-as-global-sell-off-spreads-across-markets-2523784.html "Vietnam stocks tumble as global sell-off spreads across markets")
+Vietnamese stocks fell sharply on Monday as a global sell-off swept from Wall Street to Asia, erasing trillions of dollars in market value and rattling investor confidence. 
+[ ![Xiaomi 18 Pro leak reveals bold feature Apple may never adopt](https://vietnamnet.vn/en/vietnamese-celebrities-whose-careers-collapsed-over-drugs-2514808.html) ](https://vietnamnet.vn/en/xiaomi-18-pro-leak-reveals-bold-feature-apple-may-never-adopt-2523778.html "Xiaomi 18 Pro leak reveals bold feature Apple may never adopt")
+[News](https://vietnamnet.vn/en/news "News")
+###  [ Xiaomi 18 Pro leak reveals bold feature Apple may never adopt ](https://vietnamnet.vn/en/xiaomi-18-pro-leak-reveals-bold-feature-apple-may-never-adopt-2523778.html "Xiaomi 18 Pro leak reveals bold feature Apple may never adopt")
+Fresh leaks suggest Xiaomi 18 Pro will introduce a larger secondary rear screen, raising questions about why Apple has never embraced a similar concept. 
+[ ![Rental housing: when the State cannot bear the cost alone](https://vietnamnet.vn/en/vietnamese-celebrities-whose-careers-collapsed-over-drugs-2514808.html) ](https://vietnamnet.vn/en/rental-housing-when-the-state-cannot-bear-the-cost-alone-2522547.html "Rental housing: when the State cannot bear the cost alone")
+[News](https://vietnamnet.vn/en/news "News")
+###  [ Rental housing: when the State cannot bear the cost alone ](https://vietnamnet.vn/en/rental-housing-when-the-state-cannot-bear-the-cost-alone-2522547.html "Rental housing: when the State cannot bear the cost alone")
+International experience proves the State cannot single-handedly fund and run rental housing. Expanding large-scale rental housing in Hanoi requires a robust public-private partnership framework to prevent decay and ensure long-term stability. 
+[ ![Is a June cold air outbreak unusual? Northern Vietnam sees widespread storms](https://vietnamnet.vn/en/vietnamese-celebrities-whose-careers-collapsed-over-drugs-2514808.html) ](https://vietnamnet.vn/en/is-a-june-cold-air-outbreak-unusual-northern-vietnam-sees-widespread-storms-2523785.html "Is a June cold air outbreak unusual? Northern Vietnam sees widespread storms")
+[News](https://vietnamnet.vn/en/news "News")
+###  [ Is a June cold air outbreak unusual? Northern Vietnam sees widespread storms ](https://vietnamnet.vn/en/is-a-june-cold-air-outbreak-unusual-northern-vietnam-sees-widespread-storms-2523785.html "Is a June cold air outbreak unusual? Northern Vietnam sees widespread storms")
+A late-season cold air mass is set to bring widespread heavy rain and cooler temperatures to northern Vietnam, raising concerns over flash floods and landslides. 
+[ ![The extraordinary double-sided bronze drum hidden in northern Vietnam](https://vietnamnet.vn/en/vietnamese-celebrities-whose-careers-collapsed-over-drugs-2514808.html) ](https://vietnamnet.vn/en/the-extraordinary-double-sided-bronze-drum-hidden-in-northern-vietnam-2523769.html "The extraordinary double-sided bronze drum hidden in northern Vietnam")
+[News](https://vietnamnet.vn/en/news "News")
+###  [ The extraordinary double-sided bronze drum hidden in northern Vietnam ](https://vietnamnet.vn/en/the-extraordinary-double-sided-bronze-drum-hidden-in-northern-vietnam-2523769.html "The extraordinary double-sided bronze drum hidden in northern Vietnam")
+Unlike traditional Dong Son bronze drums, this unique artifact features two enclosed drum faces and has earned recognition as a national record holder. 
+[ ![Vietnam welcomes Cambodian Prime Minister Hun Manet for official visit](https://vietnamnet.vn/en/vietnamese-celebrities-whose-careers-collapsed-over-drugs-2514808.html) ](https://vietnamnet.vn/en/vietnam-welcomes-cambodian-prime-minister-hun-manet-for-official-visit-2523782.html "Vietnam welcomes Cambodian Prime Minister Hun Manet for official visit")
+[News](https://vietnamnet.vn/en/news "News")
+###  [ Vietnam welcomes Cambodian Prime Minister Hun Manet for official visit ](https://vietnamnet.vn/en/vietnam-welcomes-cambodian-prime-minister-hun-manet-for-official-visit-2523782.html "Vietnam welcomes Cambodian Prime Minister Hun Manet for official visit")
+Cambodian Prime Minister Hun Manet arrived in Hanoi on June 8 for an official visit and participation in the ASEAN Future Forum, underscoring the growing partnership between the two neighboring countries. 
+See more ![icon loading](https://static.vnncdn.net/v1/icon/infonet/loading.svg)
+[ ![](https://static.vnncdn.net/v1/icon/VietnamNet-bridge-vien-trang.svg) ](https://vietnamnet.vn/en)
+  * © Copyright of VietNamNet Global
+  * Tel: 024 3772 7988 Fax: (024) 37722734 , Email: evnn@vietnamnet.vn
+
+
+Follow us on
+[![](https://static.vnncdn.net/v1/icon/facebook-black.svg)](https://www.facebook.com/vietnamnet.vn "facebook vietnamnet") [![](https://static.vnncdn.net/v1/icon/youtube-black.svg)](https://www.youtube.com/c/B%C3%A1oVietNamNetTV "youtube vietnamnet") [![](https://static.vnncdn.net/v1/icon/tiktok-black.svg)](https://www.tiktok.com/@vietnamnet.vn "tiktok vietnamnet") [![](https://static.vnncdn.net/v1/icon/twitter-black.svg)](https://twitter.com/vietnamnetvn "tiktok twiter") [![](https://static.vnncdn.net/v1/icon/zalo-black.svg)](http://zalo.me/660139855964186242?src=qr "zalo vietnamenet")
+[Send to editor](https://vietnamnet.vn/)
+  * [Download app](https://vietnamnet.vn/download-app)
+  * [Send to editor](https://vietnamnet.vn/doc-gia-gui-bai)
+
+
+[ ![back_to_top](https://static.vnncdn.net/v1/icon/arrow-01.svg) ](javascript:void\(0\) "Back to top")
+![](https://tracking3.vnncdn.net/tracking/detail?id=2514808&w=00000Q)
+1  / 4 
+![](https://static-images.vnncdn.net/vps_images_publish/000001/00000Q/2026/5/11/vietnamese-celebrities-whose-careers-collapsed-over-drugs-1697eec2195348f1bea5625937a44924-3382.jpg?width=260&s=3kqCbN77EuibwVYKipLg6Q)
+![](https://static-images.vnncdn.net/vps_images_publish/000001/00000Q/2026/5/11/vietnamese-celebrities-whose-careers-collapsed-over-drugs-ed52c675736b4947a05f3740d9bc8c82-3381.jpg?width=260&s=DK4S94CJeIad1MWj6ygcGw)
+![](https://static-images.vnncdn.net/vps_images_publish/000001/00000Q/2026/5/11/vietnamese-celebrities-whose-careers-collapsed-over-drugs-b679b97cb70a47de8a3f37b19e355184-3383.jpg?width=260&s=RM087UTlklJz8RcT-3wovg)
+![](https://static-images.vnncdn.net/vps_images_publish/000001/00000Q/2026/5/11/vietnamese-celebrities-whose-careers-collapsed-over-drugs-986fa6911b7c4a3f950a1c6c65ff4462-3384.jpg?width=260&s=77cZxQ2AUFHI_sWIguHNGw)
+![](https://track-srv.vietnamnet.vn/jsx/trackingv3/pageview/data.jsx?Url=https%3A%2F%2Fvietnamnet.vn%2Fen%2Fvietnamese-celebrities-whose-careers-collapsed-over-drugs-2514808.html&action=view&randId=2931&domain=vietnamnet.vn&catealias=en%2Fnews&aid=2514808)
